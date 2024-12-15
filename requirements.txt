@@ -1,0 +1,6 @@
+pytorch
+matplotlib
+numpy
+pyDOE
+scipy
+pickle
